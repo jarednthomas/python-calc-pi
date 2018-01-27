@@ -1,8 +1,9 @@
 # PyPi
 
-Python based calculator for Pi
+Python based formulas for calculating Pi
  
-Includes:
+
+includes:
 
 Bailey–Borwein–Plouffe formula
 
